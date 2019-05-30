@@ -1,3 +1,5 @@
-# SlypeMemory
-Simple class for externally reading memory addresses
+# SlypeMemory C#
 
+## Simple class for externally reading memory addresses in C#.
+
+Written for educational purposes.
